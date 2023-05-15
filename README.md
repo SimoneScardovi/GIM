@@ -20,7 +20,7 @@
 ## Esercizio 2
 
 [forma_e_senso](Esercizio_2A/index.html)  
-[dittico_interattivo](Esercizio_2B/indexB.html)
+[movimento_come_forma_movimento_come_senso](Esercizio_2B/indexB.html)
 
 ## Esercizio 3
 
