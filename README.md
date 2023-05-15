@@ -5,5 +5,5 @@
 
 ### Simone Scardovi
 
-[titolo] (percorso/file)  
+[titolo] (Esercizio_1A/acceso_spento_2.html)  
 ciao
