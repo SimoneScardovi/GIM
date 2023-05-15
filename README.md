@@ -19,12 +19,12 @@
 
 ## Esercizio 2
 
-[forma_e_senso](Esercizio_2A/index.html)
+[forma_e_senso](Esercizio_2A/index.html)  
 [dittico_interattivo](Esercizio_2B/indexB.html)
 
 ## Esercizio 3
 
-[pong](Esercizio_3/2_pong/index.html)
+[pong](Esercizio_3/2_pong/index.html)  
 [pong](Esercizio_3/2_pioggia/index.html)
 
 
