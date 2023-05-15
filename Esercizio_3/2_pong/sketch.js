@@ -7,8 +7,8 @@ function setup(){
 	createCanvas(800, 400)
 	posizioneX = width/2
 	posizioneY = height/2
-	velX = random(3)
-	velY = random(4)
+	velX = random(4,8)
+	velY = random(5,7)
 	background(225, 60, 0)
 	
 
