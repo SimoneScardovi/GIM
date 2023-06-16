@@ -32,7 +32,7 @@
 
 [orologio](Esercizio_3/orologio_esame/index.html)  
 
-è un'orologio composto da 24 sfere, ognuna di queste sfere corrisponde ad un'ora del giorno, la sfera dell'ora in cui ci si trova si muove verso l'alto seguendo il passare dei minuti fino a bloccarsi sulla cima, perdendo il suo colore, tutte le sfere delle ore passate del giorno saranno bloccate sulla cima della finestra e saranno di colore grigio.
+è un orologio composto da 24 sfere, ognuna di queste sfere corrisponde ad un'ora del giorno, la sfera dell'ora in cui ci si trova si muove verso l'alto seguendo il passare dei minuti fino a bloccarsi sulla cima, perdendo il suo colore, tutte le sfere delle ore passate del giorno saranno bloccate sulla cima della finestra e saranno di colore grigio.
 
 
 
