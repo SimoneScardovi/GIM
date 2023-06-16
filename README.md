@@ -15,7 +15,7 @@
 [spostamento_2](Esercizio_1A/spostamento_2.html)  
 [spostamento_3](Esercizio_1A/spostamento_3.html) 
 
-[dittico](Esercizio_1B/indexA.html)
+[dittico](Esercizio_1B/indexD.html)
 
 ## Esercizio 2
 
