@@ -4,7 +4,7 @@ let velX
 let velY 
 
 function setup(){
-	createCanvas(800, 400)
+	createCanvas(windowWidth, windowHeight)
 	posizioneX = width/2
 	posizioneY = height/2
 	velX = random(4,8)
@@ -12,10 +12,13 @@ function setup(){
 	background(225, 60, 0)
 	
 
+	background(0, 0, 0)
 }
 
 function draw(){
-	background(0, 0, 0)
+    for(let i=0; i<2; i=i+1) {
+		if(posizioneX >= width || posizioneX <= 0) ellipse(posizioneX, posizioneY, 100, 100)=ellipse(posizioneX, posizioneY, 100, 100)*2
+	}
 
 	ellipse(posizioneX, posizioneY, 100, 100)
 
@@ -31,4 +34,7 @@ function draw(){
 
 	if(posizioneX >= width || posizioneX <= 0) fill(random(255), random(255), random(255))
 	if(posizioneY >= height || posizioneY <= 0) fill(random(255), random(255), random(255))
-}
+
+	//if(posizioneY >= height || posizioneY <= 0) ellipse()=ellipse()*2
+	}
+
