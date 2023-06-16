@@ -18,7 +18,7 @@ function setup(){
 function draw(){
     for(let i=0; i<2; i=i+1) {
 		if(posizioneX >= width || posizioneX <= 0) ellipse(posizioneX, posizioneY, 100, 100)=ellipse(posizioneX, posizioneY, 100, 100)*2
-	}
+    
 
 	ellipse(posizioneX, posizioneY, 100, 100)
 
@@ -37,4 +37,4 @@ function draw(){
 
 	//if(posizioneY >= height || posizioneY <= 0) ellipse()=ellipse()*2
 	}
-
+}
