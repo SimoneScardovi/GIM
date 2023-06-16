@@ -25,7 +25,7 @@
 ## Esercizio 3
 
 [pong](Esercizio_3/pong/index.html)  
-[pioggia](Esercizio_3/2_pioggia/index.html)
+[pioggia](Esercizio_3/2_pioggia/index.html)  
 [orologio](Esercizio_3/orologio_esame/index.html)
 
 
