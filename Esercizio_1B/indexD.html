@@ -18,10 +18,10 @@
 			top: 50%;
 		}
 		#sx {
-			left: calc(50% - 220px);
+			left: calc(50% - 200px);
 		}
 		#dx {
-			left: calc(50% + 220px);
+			left: calc(50% + 200px);
 		}
 	</style>
 </head>
@@ -34,17 +34,17 @@
 
 		Sequencer.make({
 			canvas       	 : document.querySelector("#sx"),
-			from         	 : "img/can/0000.png",
-			to           	 : "img/can/0203.png",
-			direction        : "y",
+			from         	 : "img/pomodoro/000.jpg",
+			to           	 : "img/pomodoro/198.jpg",
+			direction        : "x",
 			playMode         : "hover",
 			loop         	 : "loop",
 		})
 		Sequencer.make({
 			canvas       	 : document.querySelector("#dx"),
-			from         	 : "img/can/0000.png",
-			to           	 : "img/can/0203.png",
-			direction        : "-y",
+			from         	 : "img/siringa/000.jpg",
+			to           	 : "img/siringa/188.jpg",
+			direction        : "x",
 			playMode         : "hover",
 			loop         	 : "loop",
 		})
